@@ -1,0 +1,19 @@
+{
+  "name": "noise-cancelling",
+  "version": "0.0.1",
+  "description": "An app designed to make silence.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertojnk/noise-cancelling.git"
+  },
+  "author": "albertojnk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertojnk/noise-cancelling/issues"
+  },
+  "homepage": "https://github.com/albertojnk/noise-cancelling#readme"
+}
