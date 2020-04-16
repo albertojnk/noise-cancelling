@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/albertojnk/noise-cancelling/issues"
   },
-  "homepage": "https://github.com/albertojnk/noise-cancelling#readme"
+  "homepage": "https://github.com/albertojnk/noise-cancelling#readme",
+  "dependencies": {
+    "get-user-media-promise": "^1.1.4",
+    "microphone-stream": "^5.0.1"
+  },
+  "devDependencies": {}
 }
